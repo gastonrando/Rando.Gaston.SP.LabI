@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1637893734 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637893722 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\linkedlist.h
+
+1637965554 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1637854704 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\mibiblioteca.h
+
+1637970011 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"movies.h"
+
+1637970236 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\movies.h
+
+1637970141 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"parser.h"
+	"movies.h"
+	"controller.h"
+	"miBiblioteca.h"
+
+1637970202 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\parser.h
+
+1637970175 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\controller.h
+
+1637970202 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"movies.h"
+
+1637970166 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"movies.h"
+	<time.h>
+
+1637970141 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"parser.h"
+	"movies.h"
+	"controller.h"
+	"miBiblioteca.h"
+
+1637893722 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\linkedlist.h
+
+1637970202 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\parser.h
+
+1637970236 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\movies.h
+
+1637970175 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\controller.h
+
+1637854704 c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\mibiblioteca.h
+
+1637893734 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637970166 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"movies.h"
+	<time.h>
+
+1637965554 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\mibiblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"miBiblioteca.h"
+
+1637970011 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"movies.h"
+
+1637970202 source:c:\users\gaston\desktop\2do parcial laboratorio\rando.gaston.sp.labi.1g\rando.gaston.sp.labi\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"movies.h"
+
